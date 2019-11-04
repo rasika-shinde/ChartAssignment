@@ -1,0 +1,20 @@
+{
+	"SAP": [
+		{
+		 "Module" : "DDIC",
+		 "Marks" :"98"
+		},
+		{
+		  "Module" :"Reports",
+		  "Marks" :"96"
+		},
+		{
+		 "Module" : "FM",
+		 "Marks" :"94"
+		},
+		{
+		 "Module" : "ODATA",
+		"Marks" :"92"
+		}
+		]
+}
